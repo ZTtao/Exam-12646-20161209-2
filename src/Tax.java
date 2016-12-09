@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Tax {
 	public static void main(String[] args){
+		System.out.print("ÇëÊäÈë¹¤×Ê£º");
 		Scanner scanner = new Scanner(System.in);
 		int i = scanner.nextInt();
 		double sum = 0;
